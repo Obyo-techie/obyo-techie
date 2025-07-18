@@ -13,9 +13,9 @@ I'm a passionate Computer Science and Engineering student with a growing interes
 ### 💻 Tech & Tools
 
  Languages: C, Python, JavaScript, SQL (learning more)
- Web Dev: HTML, CSS, JS, React (basic)
- Cyber Tools: Burp Suite, Wireshark (beginner level)
- Platforms: Windows, Linux (beginner)
+ Web Dev: HTML, CSS, JS, React 
+ Cyber Tools: Burp Suite, Wireshark
+ Platforms: Windows, Linux 
  Tools: Git, GitHub, VS Code, Cisco Packet Tracer
 
 ### 🎯 My Goals
@@ -23,7 +23,7 @@ I'm a passionate Computer Science and Engineering student with a growing interes
  ✅ Build real-world web and security-related projects
  ✅ Become a professional web developer and ethical hacker
  ✅ Contribute to open-source and team-based work
-_"Love the process, respect the grind."_  
+_"Love the process, respect the grind."
 "Pray like it all depends on God, work like it all depends on you."
 
 📫 **Reach me on GitHub or through projects I share here.**
