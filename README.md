@@ -1,15 +1,15 @@
-## 👋 Hello, I'm Obsen Frez
+<h1> 👋 Hello, I'm Obsen Frez </h1>
 
-I'm a passionate Computer Engineering student with a growing interest in **Web Development** and **Cybersecurity Testing**. I believe in mastering the fundamentals, practicing regularly, and embracing challenges that push my limits.
+<P>I'm a passionate Computer Engineering student with a growing interest in **Web Development** and **Cybersecurity Testing**.</P><p>I believe in mastering the fundamentals, practicing regularly, and embracing challenges that push my limits.</p> 
 
-###  What I'm About
-
- 📚 Currently studying Computer Engineering at DU
- 🌐 Learning full-stack web development (HTML, CSS, JS, React)
- 🛡️ Practicing security testing and ethical hacking basics
- 🔣 Solving problems in multiple programming languages
- 🦾 I love challenges and believe growth comes from discomfort
-
+<h2>What I'm About</h2>
+<ul>
+<li>📚 Currently studying Computer Engineering at DU</li> 
+ <li>🌐 Learning full-stack web development (HTML, CSS, JS, React)</li>
+<li>🛡️ Practicing security testing and ethical hacking basics</li>
+<li>🔣 Solving problems in multiple programming languages</li>
+ <li>🦾 I love challenges and believe growth comes from discomfort</li>
+</ul>
 ### 💻 Tech & Tools
 
  Languages: C, Python, JavaScript, SQL (learning more)
@@ -26,4 +26,6 @@ I'm a passionate Computer Engineering student with a growing interest in **Web D
             "Love the process, respect the grind."
 "Pray like it all depends on God, work like it all depends on you."
 
-📫 **Reach me on GitHub, Insta & TG(@OObbz1).
+📫 **Reach me on GitHub
+<a href="Github:https://github/Obyo-techie> </a>
+ Insta & TG(@OObbz1).
