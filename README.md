@@ -1,36 +1,46 @@
-<h1> 👋 Hello, I'm <pre>   
-                       ___   ____   ____    /\    _   _      \ \ / /   ___   ____   _____   ____   _   _ 
-                      / _ \ | __ ) / ___)  /  \  | \ | |      \ V /   / _ \ / ___) | ____| |  _ \ | | | |
-                     | | | ||  _ \ \___ \ / /\ \ |  \| |       | |   | | | |\___ \ |  _|   | |_) || |_| |
-                     | |_| || |_) | ___) / ____ \| |\  |       | |   | |_| | ___)) | |___  |  __/ |  _  |
-                      \___/ |____/ |____/_/    \_\_| \_|       |_|    \___/ |____| |_____| |_|    |_| |_| </pre> </h1>
+<h2 align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> 
+<br/> 
+Hey 👋, I'm OB54N<br><br>
+A Red bere & Purple Team Cyber Enthusiast 🛡️🕵️‍♂️
+</h2>
 
-<P>I'm a passionate Computer Engineering student with a growing interest in **Web Development** and **Cybersecurity Testing**.</P><p>I believe in mastering the fundamentals, practicing regularly, and embracing challenges that push my limits.</p> 
+# Hey, I'm Raxuak! 👋🏻
 
-<h2>What I'm About</h2>
-<ul>
-<li>📚 Currently studying Computer Engineering at DU</li> 
- <li>🌐 Learning full-stack web development (HTML, CSS, JS, React)</li>
-<li>🛡️ Practicing security testing and ethical hacking basics</li>
-<li>🔣 Solving problems in multiple programming languages</li>
- <li>🦾 I love challenges and believe growth comes from discomfort</li>
-</ul>
-### 💻 Tech & Tools
+- 📫 Feel free to reach out to me anytime. 👇  
+- 📫 You can reach me at obsanyoseph@gmail.com
+<br>
 
- Languages: C, Python, JavaScript, SQL (learning more)
- Web Dev: HTML, CSS, JS, React ....
- Cyber Tools: Burp Suite, & Wireshark...
- Platforms: Windows, Linux ...
- Tools: Git, GitHub, VS Code, Cisco Packet Tracer, Jira, MicrosoftAzure.....
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://https://x.com/ObsanYoseph)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://https://github.com/Obyo-techie)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:obsanyoseph@gmail.com)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](@OObbz1)  
 
-### 🎯 My Goals
 
- ✅ Build real-world web and security-related projects
- ✅ Become a professional web developer and ethical hacker
- ✅ Contribute to open-source and team-based work
-            "Love the process, respect the grind."
-"Pray like it all depends on God, work like it all depends on you."
 
-📫 **Reach me on GitHub
-<a href="Github:https://github/Obyo-techie> </a>
- Insta & TG(@OObbz1).
+👋 Hello! I'm Ob54n, a **cybersecurity enthusiast, penetration tester, and purple team operator**.  
+I’m also a **4th-year Computer Engineering student at the Ethiopian Defence University**, where I combine academic knowledge with real-world military discipline.  
+
+I work on systems that demand precision, security, and discretion.  
+I love testing systems, securing applications, exploring network protocols, and building web & embedded solutions.  
+When I’m focused, you’ll usually find me coding late at night or sharpening my cyber skills.
+
+
+
+
+### 🌐 Areas of Expertise
+- **Cybersecurity:** Penetration Testing, Purple Team Operations, Ethical Hacking, Vulnerability Assessment, Threat Hunting, Incident Response, Malware Analysis, Reverse Engineering, Digital Forensics, Cloud Security  
+- **Web Development:** Frontend & Backend, REST & GraphQL APIs, Modern Frameworks (React, Next.js, Node.js, Express), Database Design (SQL & NoSQL), Secure Web Applications, DevOps & CI/CD  
+- **Embedded Systems & IoT:** C/C++ for Microcontrollers, Linux-based Systems, Networked Devices, Security for IoT, Low-level Debugging, Firmware Development  
+- **Programming & Scripting:** Python, JavaScript, TypeScript, Go, PHP, SQL, Bash, C, C++  
+- **Tools & Platforms:** Metasploit, Burp Suite, Wireshark, Nmap, Docker, Git, Linux, Kubernetes, Cloud Platforms (AWS, Azure, GCP), Virtualization.
+
+
+### 🛠️ Languages & Tools
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,php,sql,bash,linux,go,html,css,react,nodejs&theme=dark)](https://skillicons.dev)  
+
+---
+
+💡 When I'm not hacking or coding, I’m exploring advanced network protocols, learning new web technologies, and executing secret missions nobody knows about.  
+
