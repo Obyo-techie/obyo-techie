@@ -1,7 +1,7 @@
 <h3 align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> 
 <br/> 
-  # Hey, I'm Ob54n! 👋🏻
+  Hey, I'm Ob54n! 👋🏻
 <br><br>
 A Redspecter | Purple Team Cyber Enthusiast | Systems Architect  🛡️🕵️‍♂️
 </h3>
@@ -18,7 +18,7 @@ A Redspecter | Purple Team Cyber Enthusiast | Systems Architect  🛡️🕵️�
 ---
 
 <h4>About</h4>  
-I’m  a *Computer Engineering student at the Ethiopian Defence University*, where I combine academic knowledge with real-world military discipline.  
+I’m  a Computer Engineering student at the Ethiopian Defence University, wwhere theory meets practice in high-stakes environments.
 I work on systems that demand precision, security, and discretion.  
 I love testing systems, securing applications, exploring network protocols, and building web & embedded solutions.  
 When I’m focused, you’ll usually find me coding late at night or sharpening my cyber skills.
