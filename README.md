@@ -1,4 +1,9 @@
-<h1> 👋 Hello, I'm Obsen Frez </h1>
+<h1> 👋 Hello, I'm <pre>   
+                       ___   ____   ____    /\    _   _      \ \ / /   ___   ____   _____   ____   _   _ 
+                      / _ \ | __ ) / ___)  /  \  | \ | |      \ V /   / _ \ / ___) | ____| |  _ \ | | | |
+                     | | | ||  _ \ \___ \ / /\ \ |  \| |       | |   | | | |\___ \ |  _|   | |_) || |_| |
+                     | |_| || |_) | ___) / ____ \| |\  |       | |   | |_| | ___)) | |___  |  __/ |  _  |
+                      \___/ |____/ |____/_/    \_\_| \_|       |_|    \___/ |____| |_____| |_|    |_| |_| </pre> </h1>
 
 <P>I'm a passionate Computer Engineering student with a growing interest in **Web Development** and **Cybersecurity Testing**.</P><p>I believe in mastering the fundamentals, practicing regularly, and embracing challenges that push my limits.</p> 
 
